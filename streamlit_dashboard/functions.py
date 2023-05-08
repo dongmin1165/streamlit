@@ -170,7 +170,7 @@ def layout_lv3(df_n):
                                         # line=dict(color='red', width=1),
                                         name=floor))
             fig.update_layout(
-                width=605,
+                width=600,
                 height=400,
                 margin=dict(t=0, b=0, r=0, l=0),
                 xaxis_title='시간', yaxis_title='전력소비량(kWh)'
